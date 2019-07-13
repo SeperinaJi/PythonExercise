@@ -45,3 +45,10 @@ print("\n Here is reverse sorted list now")
 print(places)
 
 
+#Chanpter 5
+
+for car in cars:
+    if car == 'bmw':
+        print(car.upper())
+    else:
+        print(car.title())

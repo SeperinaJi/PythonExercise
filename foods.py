@@ -13,3 +13,6 @@ print(my_foods)
 friend_foods.append('ice cream')
 print("\nMy friend's favorite foods are :")
 print(friend_foods)
+
+'pizza' in my_foods
+print("Pizza is in my food list.")
