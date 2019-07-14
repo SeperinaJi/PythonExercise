@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f852ded-3e51-4666-92dc-e44e1cd521f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/alliens.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favorite_languages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pizza.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,11 +67,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alliens.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="636">
               <caret line="80" column="13" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pizza.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="681">
+              <caret line="68" column="29" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -91,15 +99,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/squares.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -136,6 +135,7 @@
         <option value="$PROJECT_DIR$/topping.py" />
         <option value="$PROJECT_DIR$/favorite_languages.py" />
         <option value="$PROJECT_DIR$/alliens.py" />
+        <option value="$PROJECT_DIR$/pizza.py" />
       </list>
     </option>
   </component>
@@ -185,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.alliens">
+  <component name="RunManager" selected="Python.pizza">
     <configuration name="alliens" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HelloWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -249,7 +249,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="foods" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pizza" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HelloWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,7 +261,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/foods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pizza.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,11 +293,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pizza" />
         <item itemvalue="Python.alliens" />
         <item itemvalue="Python.favorite_languages" />
         <item itemvalue="Python.topping" />
         <item itemvalue="Python.amusement_park" />
-        <item itemvalue="Python.foods" />
       </list>
     </recent_temporary>
   </component>
@@ -454,6 +454,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="636">
           <caret line="80" column="13" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizza.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="681">
+          <caret line="68" column="29" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
         </state>
       </provider>
     </entry>
