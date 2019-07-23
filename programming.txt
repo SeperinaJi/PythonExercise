@@ -1,0 +1,4 @@
+I love python!
+I love programming!
+I also love c!
+I also love creating apps!
